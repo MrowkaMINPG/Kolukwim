@@ -54,6 +54,7 @@ int main()
        20   40  68   89 */
     struct node *root = NULL;
     root = insert(root, 50);
+    int i=1337;
     insert(root, 30);
     insert(root, 20);
     insert(root, 40);
